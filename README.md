@@ -1,4 +1,4 @@
-## Oie! Sou a Luísa
+## Oie! Eu sou a Luísa
 
 <!--
 **lucstr-souza/lucstr-souza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
