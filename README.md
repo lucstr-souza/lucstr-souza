@@ -3,7 +3,8 @@
 
 
 ![luisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucstr-souza&show_icons=true&theme=moltack)
-![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=lucstr-souza&layout=compact&theme=moltack)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucstr-souza&layout=compact&theme=moltack)
+
 
 
 🦾 SOBRE MIM!
