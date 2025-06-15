@@ -9,6 +9,7 @@
 🦾 SOBRE MIM!
 - Estudando Ciência da computação no UniCEUB
 - Programando em python
+- Aprendedo HTML/CSS
 
 <div align="left">
  
