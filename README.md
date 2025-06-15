@@ -6,7 +6,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucstr-souza&layout=compact&theme=moltack)
 
 
-
 🦾 SOBRE MIM!
 - Estudando Ciência da computação no UniCEUB
 - Programando em python
